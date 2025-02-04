@@ -2,7 +2,7 @@
   "name": "Salesforce_practice",
   "projectId": "68785700-276b-4162-bf2a-a6078402f436",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "Salesforce log in scenario.xaml",
   "dependencies": {
     "Salesforce.Activities": "[1.0.1-alpha.3]",
     "UiPath.System.Activities": "[24.10.7]"
@@ -46,8 +46,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "ab67c30a-43ee-4a3e-bf5f-1f542156c91a",
+      "filePath": "Salesforce log in scenario.xaml",
+      "uniqueId": "76567567-7a9d-4511-9325-4ce7e876121c",
       "input": [],
       "output": []
     }
